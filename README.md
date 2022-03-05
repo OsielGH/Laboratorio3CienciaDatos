@@ -1,1 +1,2 @@
-# Laboratorio3CienciaDatos
+# Laboratorio No. 3
+CIENCIA DE DATOS EN PYTHON
